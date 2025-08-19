@@ -1,15 +1,5 @@
 # Challenge ONE - Back End Java + Spring - Alura Forum API Rest.
 
-![Badge Release](https://img.shields.io/badge/Release%20Date:-May-blue)
-![Badge Java](https://img.shields.io/badge/Java:-17-blue)
-![Badge Spring Boot](https://img.shields.io/badge/Spring%20Boot:-3.1.0-blue)
-![Badge Finalizado](https://img.shields.io/badge/Status:-Completed-blue)
-![GitHub top language](https://img.shields.io/github/languages/top/your-username/your-repository-name)
-![GitHub contributors](https://img.shields.io/github/contributors/your-username/your-repository-name)
-![GitHub issues](https://img.shields.io/github/issues/your-username/your-repository-name)
-![GitHub forks](https://img.shields.io/github/forks/your-username/your-repository-name)
-![GitHub stars](https://img.shields.io/github/stars/your-username/your-repository-name)
-
 ## Project Description
 
 This is the solution to the **Challenge - Alura Forum** using **Spring Boot** for creating the Rest API, **MySQL** for the databases, and **Java 17** for development with the help of the **IntelliJ** IDE and **Insomnia** for API testing. This is the fourth challenge of the **Oracle Next Education (ONE)** training from **Oracle + Alura LATAM**.
@@ -91,3 +81,4 @@ Contributions are what make the open-source community such an amazing place to l
 3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
+
