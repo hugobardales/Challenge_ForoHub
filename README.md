@@ -8,14 +8,14 @@ The challenge consists of creating an **API** by implementing the best practices
 
 ### :hammer:Functionalities
 
-- `Functionality 1`: Create a new topic.
-- `Functionality 2`: Display all created topics.
-- `Functionality 3`: Display a specific topic.
-- `Functionality 4`: Update a topic.
-- `Functionality 5`: Delete a topic.
-- `Functionality 6`: API with routes implemented following the best practices of the Rest model.
-- `Functionality 7`: Validations performed according to business rules.
-- `Functionality 8`: Implementation of a database for data persistence.
+- Create a new topic.
+- Display all created topics.
+- Display a specific topic.
+- Update a topic.
+- Delete a topic.
+- API with routes implemented following the best practices of the Rest model.
+- Validations performed according to business rules.
+- Implementation of a database for data persistence.
 
 ## Getting Started 🚀
 
@@ -71,6 +71,7 @@ _To develop the project, I used the following tools:_
 * [Java 17](https://www.oracle.com/java/) - Programming language.
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Integrated development environment for software development.
 * [Spring Boot](https://start.spring.io/) - A tool that makes building web applications and microservices with the Spring Framework faster and easier.
+
 
 
 
